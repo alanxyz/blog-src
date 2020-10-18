@@ -5,7 +5,7 @@ By default, the gnome [group](https://www.archlinux.org/groups/x86_64/gnome/) is
 
 I made my own list of packages that you actually need to run Gnome and alternatives to packages that need a lot of dependencies for example Nautilus which has GVFS as a strong dependency even though I doubt most people will be using it and it takes up lots of resources. 
 
-Instead of intalling Gnome normally like `pacman -S gnome`, I would reccomend installing Gnome with these packages so you do not install as much bloat.  
+Instead of installing Gnome normally like `pacman -S gnome`, I would reccomend installing Gnome with these packages so you do not install as much bloat.  
 
 `pacman -S gdm gnome-control-center gnome-keyring lxterminal gpicview-gtk3 gnome-session gnome-settings-daemon gnome-shell pcmanfm-gtk3 mutter `
 
