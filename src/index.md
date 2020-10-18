@@ -4,3 +4,4 @@ I will put some of my projects and discoveries on here, even though no one will 
 
 ## Articles
 - [Arch Install Guide](install.html)
+- [Gnome is Bloated](gnome.html)
