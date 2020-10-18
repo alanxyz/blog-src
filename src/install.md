@@ -11,7 +11,7 @@ You are free to modify it in any way, this guide is written using Markdown.
 
 **2 Pre-installation**  
 
-**3 Installation**
+**3 Installation**  
 - *3.1* Make sure you use UEFI  
 - *3.2* Configure a network connection  
 - *3.3* Doing partitions  
